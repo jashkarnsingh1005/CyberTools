@@ -1,0 +1,10 @@
+> PORT SCANNER
+==============
+
+ Target:	LOCALHOST
+ IP Adr.:	127.0.0.1
+ Ports:	[ 1 / 1024 ]
+ Result:	[ 2 / 1024 ]
+
+ Port 135	[open]
+ Port 445	[open]
